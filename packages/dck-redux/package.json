@@ -1,5 +1,5 @@
 {
-  "name": "dck-redux",
+  "name": "@ambroseus/dck-redux",
   "version": "4.0.0",
   "main": "lib/dck-redux.js",
   "types": "lib/index.d.ts",
